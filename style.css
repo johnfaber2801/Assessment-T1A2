@@ -1,0 +1,231 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color:black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    padding: 1rem 1rem;
+    background: rgb(219, 217, 217);
+}
+main {display: contents;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    /* background: rgb(93, 79, 23) */
+    /* background-image: url(assets/Background.jpg) ; */
+    /* background-size: cover; /* This property scales the image to cover the entire element */
+    /* background-attachment:fixed;} */ }
+
+#logo {
+        display: flex;
+        flex-direction: column;
+        width: 20%;
+        /* height: 20% ; */
+        /* margin-bottom:1rem; */
+        /* border-radius: 50%; */
+        padding:1%;
+        /* border: ; */
+        margin: auto;
+
+}
+
+
+nav {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    justify-content: space-around;
+    align-items: normal;
+    vertical-align: middle;
+
+
+}
+
+.bar {
+    width: 200px;
+    height: 50px;
+    /* margin: 20px; */
+    /* text-decoration: none; */
+    border: white solid 1px;
+    background-color: rgb(234, 224, 224);
+    text-align: center;
+    display: flex;
+    align-content: space-around;
+    flex-direction: column;
+    justify-content: space-around;
+    font-size:120%;
+
+}
+
+.bar:hover {
+    background-color: rgb(217, 20, 20);
+    color: rgb(93, 79, 23);
+}
+
+#photo {
+    display: flex; /* Create a flex container */
+    justify-content: space-around; /* Center content horizontally */
+    flex-direction: row;
+    flex-wrap: nowrap;
+    /* align-content: flex-start; */
+    align-items: center; /* Center content vertically */
+    height: 30vh; /* Set a fixed height for the container */
+    width:auto ;
+    padding: 1em;
+
+   }
+
+.Hello {
+        font-size: 150%;
+}
+
+.John {
+    border-radius: 10%;
+    padding: 1.5em ;
+}
+
+#introduction {
+    display: flex;
+    padding: 1rem 1rem;
+    text-align: center;
+    /* background: rgb(219, 217, 217); */
+}
+
+#contact {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 1.5rem;
+    font-weight: bold;
+}
+.phone, .email {
+    display: flex;
+
+    width: 5vw; /* Adjust the width to your desired size */
+    height: 5vw; /* Adjust the height to your desired size */
+    vertical-align: middle; /* Optional: Align the icon vertically with the text */
+}
+/* .email, .phone{
+
+} */
+footer {
+    text-align: center;
+    padding: 1.5rem;
+    background: rgb(219, 217, 217);
+  }
+
+
+                 /* phone view */
+  @media only screen and (max-width: 400px) {
+
+    .Hello {
+        font-size: 90%;
+     }
+     #introduction {
+         background: rgb(234, 224, 224);
+     }
+
+   header {
+    padding-bottom: 2rem;
+
+   }
+
+   #contact {
+    padding-top: 1.5rem;
+    padding-bottom: 1.5rem;
+    justify-content: space-evenly;
+    flex-direction: column-reverse;}
+
+   footer {
+        padding-top: 1.5rem;
+        padding-bottom: 1.5rem;}
+
+    #logo{
+        width: 36%;
+        padding-bottom: 2rem;
+    }
+
+    .phone {
+        width: 10%;
+        height: 50%;
+    }
+    .email {
+        width: 10%;
+        height: 50%;
+
+    }
+   }
+                 /* tablet */
+
+   @media only screen and (min-width: 401px) and (max-width:2000px) {
+
+    header {
+        padding-top: 3rem;
+        padding-bottom: 5rem;
+    }
+    #logo{
+        width: 30%;
+        padding-bottom: 2rem;
+
+    }
+
+    #photo {
+
+        padding-top: 6rem;
+        padding-bottom: 6rem;
+    }
+
+    #introduction {
+        background: rgb(234, 224, 224);
+        padding-top: 6rem;
+        padding-bottom: 6rem;
+    }
+
+    footer {
+        padding-top: 2rem;
+        padding-bottom: 2.1rem;}
+
+   }
+
+                     /* desktop */
+
+@media only screen and (min-width: 961px) {
+
+    #introduction {
+        font-size: 190%;
+        background:  rgb(219, 217, 217)
+}
+
+    #logo {
+         width: 25vh;
+}
+
+    header {
+        padding-bottom: 5%;
+}
+    .John {
+        width: 30vh;}
+
+    .Hello {
+        font-size: 300%;
+
+    }
+    #contact {
+        padding-top: 2%;
+        padding-bottom: 2%;
+}
+
+    footer {
+        padding-top: 1.5%;
+        padding-bottom: 1.5%;
+}
+}
