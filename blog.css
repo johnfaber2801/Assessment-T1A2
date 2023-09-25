@@ -38,7 +38,10 @@ nav {
 
 
 }
-
+.bar:hover {
+    background-color: rgb(217, 20, 20);
+    color: rgb(23, 93, 35);
+}
 .bar {
     width: 200px;
     height: 50px;
@@ -54,12 +57,31 @@ nav {
     font-size:120%;
 
 }
-
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    background-color: grey;
+    padding: 2rem ;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    margin: 0.5rem;
+    border-style: double;
+  }
+  article img {
+    width: 30%;
+  }
 #social {
 
     display: flex;
     justify-content:center;
-    background: rgb(234, 224, 224);
+    background-color: rgb(234, 224, 224);
 }
 
 .linkedin, .github {
@@ -74,4 +96,34 @@ footer {
     text-align: center;
     padding: 1.5rem;
     background: rgb(219, 217, 217);
+  }
+
+  @media only screen and (max-width: 400px) {
+
+    footer{
+        padding: 0.5rem;
+        font-size: small;
+    }
+    #social{
+        padding: 0.5rem;
+        .linkedin, .github {
+            width: 10vw;
+            height: 10vw;
+        }
+    }
+    #logo{
+        width: 30%;
+
+    }
+    .bar {
+        font-size: small;
+    }
+  }
+  @media only screen and (min-width: 961px) {
+
+    main{
+        padding-right: 10rem;
+        padding-left: 10rem;
+    }
+
   }

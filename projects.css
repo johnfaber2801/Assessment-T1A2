@@ -38,8 +38,11 @@ nav {
 
 
 }
-
-.bar {
+.bar:hover {
+    background-color: rgb(217, 20, 20);
+    color: rgb(23, 93, 35);
+}
+.bar, .button{
     width: 200px;
     height: 50px;
     /* margin: 20px; */
@@ -53,6 +56,23 @@ nav {
     justify-content: space-around;
     font-size:120%;
 
+}
+
+#project {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 5%;
+    border-style: double;
+    margin: 5rem;
+   
+}
+
+.powerbi-img {
+    display: flex;
+    width: 50%;
+    padding: 1.5rem;
+    align-items: center;    
 }
 
 #social {
@@ -75,3 +95,47 @@ footer {
     padding: 1.5rem;
     background: rgb(219, 217, 217);
   }
+
+  @media only screen and (max-width: 400px) {
+
+    #project {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 5%;
+        border-style: double;
+        margin: 0.5rem;
+        font-size: medium;
+        .powerbi-img{
+            width: 100%;
+        }
+    }
+    footer{
+        padding: 0.5rem;
+        font-size: small;
+    }
+    #social{
+        padding: 0.5rem;
+        .linkedin, .github {
+            width: 10vw;
+            height: 10vw;
+        }
+    }
+    #logo{
+        width: 30%;
+
+    }
+    .bar {
+        font-size: small;
+    }
+    }
+    @media only screen and (min-width: 401px) and (max-width:960px) {
+        #project {
+            padding-top: 9vw;
+            padding-bottom: 9vw;
+            font-size: medium;
+        .powerbi-img {
+                width: 100%;
+             }
+            }
+        }
