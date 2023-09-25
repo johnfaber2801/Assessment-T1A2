@@ -100,7 +100,11 @@ padding: 1.5rem;
     position: relative;
     width: 100%;
     padding-bottom: 1.5rem }
-
+#education{
+    position: relative;
+    text-align: center;
+    padding: 1.5rem;
+}
 
 #social {
 
