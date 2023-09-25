@@ -106,6 +106,7 @@ nav {
     justify-content: space-evenly;
     padding: 1.5rem;
     font-weight: bold;
+    text-align: end;
 }
 .phone, .email {
     display: flex;
@@ -113,10 +114,23 @@ nav {
     width: 5vw; /* Adjust the width to your desired size */
     height: 5vw; /* Adjust the height to your desired size */
     vertical-align: middle; /* Optional: Align the icon vertically with the text */
+   
 }
-/* .email, .phone{
+#social {
 
-} */
+    display: flex;
+    justify-content:center;
+    background: rgb(234, 224, 224);
+}
+
+.linkedin, .github {
+    display: flex;
+
+    width: 4vw; /* Adjust the width to your desired size */
+    height: 4vw; /* Adjust the height to your desired size */
+    /* vertical-align: middle; */
+
+}
 footer {
     text-align: center;
     padding: 1.5rem;

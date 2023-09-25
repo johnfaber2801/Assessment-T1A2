@@ -1,0 +1,120 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color:black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    padding: 1rem 1rem;
+    background: rgb(219, 217, 217);
+}
+
+#logo {
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    /* height: 20% ; */
+    /* margin-bottom:1rem; */
+    /* border-radius: 50%; */
+    padding:1%;
+    /* border: ; */
+    margin: auto;
+
+}
+nav {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: stretch;
+    justify-content: space-around;
+    align-items: normal;
+    vertical-align: middle;
+
+
+}
+
+.bar {
+    width: 200px;
+    height: 50px;
+    /* margin: 20px; */
+    /* text-decoration: none; */
+    border: white solid 1px;
+    background-color: rgb(234, 224, 224);
+    text-align: center;
+    display: flex;
+    align-content: space-around;
+    flex-direction: column;
+    justify-content: space-around;
+    font-size:120%;
+
+}
+
+#photo {
+    display: flex;
+    justify-content: center;
+}
+
+.John {
+    margin: 1em;
+    width:10%;
+    background-color: rgb(32, 32, 32);
+    border-radius: 20%;
+    padding: 0.5vw;  
+}
+
+#Hello {
+    padding: 2%;
+    text-align: center;
+    
+}
+
+
+#intro {
+    padding: 1.2rem;
+    text-align: center;
+}
+.myintro {
+text-align: center;
+padding: 1.5rem;
+
+}
+#title-skills {
+    text-align: center;
+    padding: 1.5rem;
+}
+
+#skills {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    padding-bottom: 1.5rem }
+
+
+#social {
+
+    display: flex;
+    justify-content:center;
+    background: rgb(234, 224, 224);
+}
+
+.linkedin, .github {
+    display: flex;
+
+    width: 4vw; 
+    height: 4vw; 
+  
+
+}
+footer {
+    text-align: center;
+    padding: 1.5rem;
+    background: rgb(219, 217, 217);
+  }
