@@ -33,7 +33,7 @@ I also addded a small description of my services, contact details and social net
 
 ## Sitemap
 
-![Sitemap](/assets/Sitemap.png "Sitemap") 
+![Sitemap](docs/images/Sitemap.png "Sitemap") 
 
 - Find above a structure of all the pages. This will serve as a roadmap for better navigation through the website
 
@@ -43,73 +43,73 @@ I also addded a small description of my services, contact details and social net
 
 #### Mobile
 
-![Mobilehomepage](/assets/Mobile%20view%20Home%20Page.png)
+![Mobilehomepage](docs/images/Mobile%20view%20Home%20Page.png)
 
 #### Tablet
 
-![tablethomepage](/assets/Tablet%20view%20Home%20Page.png)
+![tablethomepage](docs/images/Tablet%20view%20Home%20Page.png)
 
 #### Desktop view.
 
-![desktophomepage](/assets/Desktop%20view%20Home%20Page.png)
+![desktophomepage](docs/images/Desktop%20view%20Home%20Page.png)
 
 ### About Me
 
 #### Mobile
 
-![mobileviewaboutme](/assets/Mobile%20view%20about%20me.png)
+![mobileviewaboutme](docs/images/Mobile%20view%20about%20me.png)
 
-![mobileviewaboutme2](/assets/Mobile%20view%20about%20me2.png)
+![mobileviewaboutme2](docs/images/Mobile%20view%20about%20me2.png)
 
 *note*: 2 screenshot added as scroll down needed to explore all the content.
 
 
 #### Tablet
 
-![tabletviewaboutme](/assets/tablet%20view%20about%20me.png)
+![tabletviewaboutme](docs/images/tablet%20view%20about%20me.png)
 
-![tabletviewaboutme2](/assets/tablet%20view%20about%20me2.png)
+![tabletviewaboutme2](docs/images/tablet%20view%20about%20me2.png)
 
 *note:* 2 screenshot added as scroll down needed to explore all the content.
 
 #### Desktop
 
-![desktopviewaboutme](/assets/desktop%20view%20about%20me.png)
+![desktopviewaboutme](docs/images/desktop%20view%20about%20me.png)
 
 ### Project
 
 #### Mobile
 
-![mobilviewproject](/assets/Mobile%20view%20project.png)
+![mobilviewproject](docs/images/Mobile%20view%20project.png)
 
 #### Tablet
 
-![tablesviewproject](/assets/tablet%20view%20project.png)
+![tablesviewproject](docs/images/tablet%20view%20project.png)
 
 #### Desktop
 
-![desktopviewproject](/assets/desktop%20view%20project.png)
+![desktopviewproject](docs/images/desktop%20view%20project.png)
 
 ### Blog
 
 #### Mobile
 
-![mobileviewblog](/assets/Mobile%20view%20blog.png)
+![mobileviewblog](docs/images/Mobile%20view%20blog.png)
 
-![mobileviewblog2](/assets/Mobile%20view%20blog2.png)
+![mobileviewblog2](docs/images/Mobile%20view%20blog2.png)
 
 #### Tablet
 
-![tabletviewblog](/assets/tablet%20view%20blog.png)
-![tabletviewblog2](/assets/tablet%20view%20blog2.png)
+![tabletviewblog](docs/images/tablet%20view%20blog.png)
+![tabletviewblog2](docs/images/tablet%20view%20blog2.png)
 
 *note:* 2 screenshot added as scroll down needed to explore all the content.
 
 #### Desktop
 
-![desktopblog](/assets/desktop%20view%20blog.png)
-![desktopblog2](/assets/desktop%20view%20blog2.png)
-![desktopblog3](/assets/desktop%20view%20blog3.png)
+![desktopblog](docs/images/desktop%20view%20blog.png)
+![desktopblog2](docs/images/desktop%20view%20blog2.png)
+![desktopblog3](docs/images/desktop%20view%20blog3.png)
 
 *note:* 3 screenshot added as scroll down needed to explore all the content.
 
