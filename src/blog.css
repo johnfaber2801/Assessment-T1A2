@@ -10,7 +10,6 @@
 header {
     display: flex;
     flex-direction: column;
-    /* align-items: center; */
     padding: 1rem 1rem;
     background: rgb(219, 217, 217);
 }
@@ -19,11 +18,8 @@ header {
     display: flex;
     flex-direction: column;
     width: 20%;
-    /* height: 20% ; */
-    /* margin-bottom:1rem; */
-    /* border-radius: 50%; */
     padding:1%;
-    /* border: ; */
+   
     margin: auto;
 
 }
@@ -38,12 +34,13 @@ nav {
 
 
 }
-
+.bar:hover {
+    background-color: rgb(217, 20, 20);
+    color: rgb(23, 93, 35);
+}
 .bar {
     width: 200px;
     height: 50px;
-    /* margin: 20px; */
-    /* text-decoration: none; */
     border: white solid 1px;
     background-color: rgb(234, 224, 224);
     text-align: center;
@@ -54,72 +51,37 @@ nav {
     font-size:120%;
 
 }
-
-#photo {
-    display: flex;
-    justify-content: center;
-}
-
-.John {
-    margin: 1em;
-    width:10%;
-    background-color: rgb(32, 32, 32);
-    border-radius: 20%;
-    padding: 0.5vw;  
-}
-
-#Hello {
-    padding: 2%;
-    text-align: center;
-    
-}
-.bar:hover {
-    background-color: rgb(217, 20, 20);
-    color: rgb(23, 93, 35);
-}
-
-#intro {
-    padding: 1.2rem;
-    text-align: center;
-    background-color: rgb(234, 224, 224);
-}
-.myintro {
-text-align: center;
-padding: 1.5rem;
-
-}
-#title-skills {
-    text-align: center;
-    padding: 1.5rem;
-}
-
-#skills {
+main {
     display: flex;
     flex-direction: column;
     align-items: center;
-    position: relative;
-    width: 100%;
-    padding-bottom: 1.5rem }
-#education{
-    position: relative;
+  }
+  article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     text-align: center;
-    padding: 1.5rem;
-}
-
+    background-color: grey;
+    padding: 2rem ;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    margin: 0.5rem;
+    border-style: double;
+  }
+  article img {
+    width: 30%;
+  }
 #social {
 
     display: flex;
     justify-content:center;
-    background: rgb(234, 224, 224);
+    background-color: rgb(234, 224, 224);
 }
 
 .linkedin, .github {
     display: flex;
 
     width: 4vw; 
-    height: 4vw; 
-  
-
 }
 footer {
     text-align: center;
@@ -127,15 +89,9 @@ footer {
     background: rgb(219, 217, 217);
   }
 
-
+  /* Phone View */
   @media only screen and (max-width: 400px) {
 
-    .John{
-        width: 20vw;
-    }
-    .bar {
-        font-size: small;
-    }
     footer{
         padding: 0.5rem;
         font-size: small;
@@ -151,19 +107,17 @@ footer {
         width: 30%;
 
     }
-  }
-
-  @media only screen and (min-width: 401px) and (max-width:960px) {
-
-    .John{
-        width: 15vw;
-    }
-    footer{
-        padding: 1rem;
+    .bar {
+        font-size: small;
     }
   }
 
-  
+  /* Desktop view */
+  @media only screen and (min-width: 961px) {
 
+    main{
+        padding-right: 10rem;
+        padding-left: 10rem;
+    }
 
-
+  }

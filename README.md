@@ -2,7 +2,7 @@
 
 ## Author: John Rodriguez
 
-[Published Portfolio Website](https://johnfaber2801.github.io/Assessment-T1A2/blog.html)
+[Published Portfolio Website](https://johnfaber2801.github.io/Assessment-T1A2/index.html)
 
 [Github repository](https://github.com/JohnFaber2801/Assessment-T1A2)
 
@@ -61,7 +61,7 @@ I also addded a small description of my services, contact details and social net
 
 ![mobileviewaboutme2](/assets/Mobile%20view%20about%20me2.png)
 
-*note* 2 screenshot added as scroll down needed to explore all the content.
+*note*: 2 screenshot added as scroll down needed to explore all the content.
 
 
 #### Tablet
@@ -70,7 +70,7 @@ I also addded a small description of my services, contact details and social net
 
 ![tabletviewaboutme2](/assets/tablet%20view%20about%20me2.png)
 
-*note* 2 screenshot added as scroll down needed to explore all the content.
+*note:* 2 screenshot added as scroll down needed to explore all the content.
 
 #### Desktop
 
@@ -103,7 +103,7 @@ I also addded a small description of my services, contact details and social net
 ![tabletviewblog](/assets/tablet%20view%20blog.png)
 ![tabletviewblog2](/assets/tablet%20view%20blog2.png)
 
-*note* 2 screenshot added as scroll down needed to explore all the content.
+*note:* 2 screenshot added as scroll down needed to explore all the content.
 
 #### Desktop
 
@@ -111,11 +111,11 @@ I also addded a small description of my services, contact details and social net
 ![desktopblog2](/assets/desktop%20view%20blog2.png)
 ![desktopblog3](/assets/desktop%20view%20blog3.png)
 
-*note* 3 screenshot added as scroll down needed to explore all the content.
+*note:* 3 screenshot added as scroll down needed to explore all the content.
 
 ## Target Audience
 
-The website portfolio is targeted to recruiters of the IT industry. It will bring access to real life projects and Github repositories. My diverse background will give an idea of what king experience and person I am. My social media will help to support that.
+The website portfolio is targeted to recruiters of the IT industry. It will bring access to real life projects and Github repositories. My diverse background will give an idea of what kink experience and person I am. My social media will help to support that.
 
 
 ## Tech Stack

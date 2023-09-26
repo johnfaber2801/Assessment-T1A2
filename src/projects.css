@@ -10,7 +10,6 @@
 header {
     display: flex;
     flex-direction: column;
-    /* align-items: center; */
     padding: 1rem 1rem;
     background: rgb(219, 217, 217);
 }
@@ -19,11 +18,7 @@ header {
     display: flex;
     flex-direction: column;
     width: 20%;
-    /* height: 20% ; */
-    /* margin-bottom:1rem; */
-    /* border-radius: 50%; */
     padding:1%;
-    /* border: ; */
     margin: auto;
 
 }
@@ -42,11 +37,9 @@ nav {
     background-color: rgb(217, 20, 20);
     color: rgb(23, 93, 35);
 }
-.bar {
+.bar, .button{
     width: 200px;
     height: 50px;
-    /* margin: 20px; */
-    /* text-decoration: none; */
     border: white solid 1px;
     background-color: rgb(234, 224, 224);
     text-align: center;
@@ -57,39 +50,36 @@ nav {
     font-size:120%;
 
 }
-main {
+
+#project {
     display: flex;
     flex-direction: column;
     align-items: center;
-  }
-  article {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    text-align: center;
-    background-color: grey;
-    padding: 2rem ;
-    padding-left: 3rem;
-    padding-right: 3rem;
-    margin: 0.5rem;
+    padding: 5%;
     border-style: double;
-  }
-  article img {
-    width: 30%;
-  }
+    margin: 5rem;
+   
+}
+
+.powerbi-img {
+    display: flex;
+    width: 50%;
+    padding: 1.5rem;
+    align-items: center;    
+}
+
 #social {
 
     display: flex;
     justify-content:center;
-    background-color: rgb(234, 224, 224);
+    background: rgb(234, 224, 224);
 }
 
 .linkedin, .github {
     display: flex;
 
-    width: 4vw; /* Adjust the width to your desired size */
-    height: 4vw; /* Adjust the height to your desired size */
-    /* vertical-align: middle; */
+    width: 4vw; 
+    height: 4vw; 
 
 }
 footer {
@@ -97,9 +87,21 @@ footer {
     padding: 1.5rem;
     background: rgb(219, 217, 217);
   }
-
+                /* Phone view */
   @media only screen and (max-width: 400px) {
 
+    #project {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 5%;
+        border-style: double;
+        margin: 0.5rem;
+        font-size: medium;
+        .powerbi-img{
+            width: 100%;
+        }
+    }
     footer{
         padding: 0.5rem;
         font-size: small;
@@ -118,12 +120,16 @@ footer {
     .bar {
         font-size: small;
     }
-  }
-  @media only screen and (min-width: 961px) {
-
-    main{
-        padding-right: 10rem;
-        padding-left: 10rem;
     }
-
-  }
+    
+    /* Tablet view */
+    @media only screen and (min-width: 401px) and (max-width:960px) {
+        #project {
+            padding-top: 9vw;
+            padding-bottom: 9vw;
+            font-size: medium;
+        .powerbi-img {
+                width: 100%;
+             }
+            }
+        }

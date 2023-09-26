@@ -38,11 +38,8 @@ nav {
 
 
 }
-.bar:hover {
-    background-color: rgb(217, 20, 20);
-    color: rgb(23, 93, 35);
-}
-.bar, .button{
+
+.bar {
     width: 200px;
     height: 50px;
     /* margin: 20px; */
@@ -58,21 +55,55 @@ nav {
 
 }
 
-#project {
+#photo {
+    display: flex;
+    justify-content: center;
+}
+
+.John {
+    margin: 1em;
+    width:10%;
+    background-color: rgb(32, 32, 32);
+    border-radius: 20%;
+    padding: 0.5vw;  
+}
+
+#Hello {
+    padding: 2%;
+    text-align: center;
+    
+}
+.bar:hover {
+    background-color: rgb(217, 20, 20);
+    color: rgb(23, 93, 35);
+}
+
+#intro {
+    padding: 1.2rem;
+    text-align: center;
+    background-color: rgb(234, 224, 224);
+}
+.myintro {
+text-align: center;
+padding: 1.5rem;
+
+}
+#title-skills {
+    text-align: center;
+    padding: 1.5rem;
+}
+
+#skills {
     display: flex;
     flex-direction: column;
     align-items: center;
-    padding: 5%;
-    border-style: double;
-    margin: 5rem;
-   
-}
-
-.powerbi-img {
-    display: flex;
-    width: 50%;
+    position: relative;
+    width: 100%;
+    padding-bottom: 1.5rem }
+#education{
+    position: relative;
+    text-align: center;
     padding: 1.5rem;
-    align-items: center;    
 }
 
 #social {
@@ -85,9 +116,9 @@ nav {
 .linkedin, .github {
     display: flex;
 
-    width: 4vw; /* Adjust the width to your desired size */
-    height: 4vw; /* Adjust the height to your desired size */
-    /* vertical-align: middle; */
+    width: 4vw; 
+    height: 4vw; 
+  
 
 }
 footer {
@@ -96,19 +127,14 @@ footer {
     background: rgb(219, 217, 217);
   }
 
+                    /* Phone view */
   @media only screen and (max-width: 400px) {
 
-    #project {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        padding: 5%;
-        border-style: double;
-        margin: 0.5rem;
-        font-size: medium;
-        .powerbi-img{
-            width: 100%;
-        }
+    .John{
+        width: 20vw;
+    }
+    .bar {
+        font-size: small;
     }
     footer{
         padding: 0.5rem;
@@ -125,17 +151,19 @@ footer {
         width: 30%;
 
     }
-    .bar {
-        font-size: small;
+  }
+                        /* Tablet view */
+  @media only screen and (min-width: 401px) and (max-width:960px) {
+
+    .John{
+        width: 15vw;
     }
+    footer{
+        padding: 1rem;
     }
-    @media only screen and (min-width: 401px) and (max-width:960px) {
-        #project {
-            padding-top: 9vw;
-            padding-bottom: 9vw;
-            font-size: medium;
-        .powerbi-img {
-                width: 100%;
-             }
-            }
-        }
+  }
+
+  
+
+
+
