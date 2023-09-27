@@ -6,7 +6,7 @@
 
 [Github repository](https://github.com/JohnFaber2801/Assessment-T1A2)
 
-[Slidde Deck presentation](https://youtu.be/ehRp_iuQ7Mw)
+[Slide Deck presentation](https://youtu.be/ehRp_iuQ7Mw)
 
 ## Purpose of Website
 
