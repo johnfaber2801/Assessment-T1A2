@@ -33,7 +33,7 @@ I also addded a small description of my services, contact details and social net
 
 ## Sitemap
 
-![Sitemap](docs/images/Sitemap.png "Sitemap") 
+![Sitemap](docs/Sitemap.png "Sitemap") 
 
 - Find above a structure of all the pages. This will serve as a roadmap for better navigation through the website
 
@@ -43,30 +43,30 @@ I also addded a small description of my services, contact details and social net
 
 #### Mobile
 
-![Mobilehomepage](docs/images/Mobile%20view%20Home%20Page.png)
+![Mobilehomepage](docs/Mobile%20view%20Home%20Page.png)
 
 #### Tablet
 
-![tablethomepage](docs/images/Tablet%20view%20Home%20Page.png)
+![tablethomepage](docs/Tablet%20view%20Home%20Page.png)
 
 #### Desktop view.
 
-![desktophomepage](docs/images/Desktop%20view%20Home%20Page.png)
+![desktophomepage](docs/Desktop%20view%20Home%20Page.png)
 
 ### About Me
 
 #### Mobile
 
-![mobileviewaboutme](docs/images/Mobile%20view%20about%20me.png)
+![mobileviewaboutme](docs/Mobile%20view%20about%20me.png)
 
-![mobileviewaboutme2](docs/images/Mobile%20view%20about%20me2.png)
+![mobileviewaboutme2](docs/Mobile%20view%20about%20me2.png)
 
 *note*: 2 screenshot added as scroll down needed to explore all the content.
 
 
 #### Tablet
 
-![tabletviewaboutme](docs/images/tablet%20view%20about%20me.png)
+![tabletviewaboutme](docs/tablet%20view%20about%20me.png)
 
 ![tabletviewaboutme2](docs/images/tablet%20view%20about%20me2.png)
 
@@ -74,42 +74,42 @@ I also addded a small description of my services, contact details and social net
 
 #### Desktop
 
-![desktopviewaboutme](docs/images/desktop%20view%20about%20me.png)
+![desktopviewaboutme](docs/desktop%20view%20about%20me.png)
 
 ### Project
 
 #### Mobile
 
-![mobilviewproject](docs/images/Mobile%20view%20project.png)
+![mobilviewproject](docs/Mobile%20view%20project.png)
 
 #### Tablet
 
-![tablesviewproject](docs/images/tablet%20view%20project.png)
+![tablesviewproject](docs/tablet%20view%20project.png)
 
 #### Desktop
 
-![desktopviewproject](docs/images/desktop%20view%20project.png)
+![desktopviewproject](docs/desktop%20view%20project.png)
 
 ### Blog
 
 #### Mobile
 
-![mobileviewblog](docs/images/Mobile%20view%20blog.png)
+![mobileviewblog](docs/Mobile%20view%20blog.png)
 
-![mobileviewblog2](docs/images/Mobile%20view%20blog2.png)
+![mobileviewblog2](docs/Mobile%20view%20blog2.png)
 
 #### Tablet
 
-![tabletviewblog](docs/images/tablet%20view%20blog.png)
-![tabletviewblog2](docs/images/tablet%20view%20blog2.png)
+![tabletviewblog](docs/tablet%20view%20blog.png)
+![tabletviewblog2](docs/tablet%20view%20blog2.png)
 
 *note:* 2 screenshot added as scroll down needed to explore all the content.
 
 #### Desktop
 
-![desktopblog](docs/images/desktop%20view%20blog.png)
-![desktopblog2](docs/images/desktop%20view%20blog2.png)
-![desktopblog3](docs/images/desktop%20view%20blog3.png)
+![desktopblog](docs/desktop%20view%20blog.png)
+![desktopblog2](docs/desktop%20view%20blog2.png)
+![desktopblog3](docs/desktop%20view%20blog3.png)
 
 *note:* 3 screenshot added as scroll down needed to explore all the content.
 
@@ -127,4 +127,4 @@ The website portfolio is targeted to recruiters of the IT industry. It will brin
 * Deployment: [Vercel.com](https://vercel.com/dashboard)
 * Resume : [wonsulting.com](https://www.wonsulting.com/)
 * Slide deck: Powerpoint
-* blog images: [unsplash.com](https://unsplash.com/)
+* blog images: [unsplash.com](https://unsplash.com/)g
