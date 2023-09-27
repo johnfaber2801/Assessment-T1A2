@@ -6,10 +6,12 @@
 
 [Github repository](https://github.com/JohnFaber2801/Assessment-T1A2)
 
+[Slidde Deck presentation](https://youtu.be/ehRp_iuQ7Mw)
+
 ## Purpose of Website
 
 The main purpose of this website is to showcase to  recruiters from the IT industry my skills, education, projects, blogs and contact details for hiring purposes.
-
+git st
 ## Funcionality / features
 
 The portfolio website was designed for an easy navigational experience. First thing user will notice is my logo which will be the brand of my services. Then a navigation bar right under it where user can click on the them for more information.
