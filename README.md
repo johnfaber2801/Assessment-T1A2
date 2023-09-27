@@ -10,28 +10,28 @@
 
 ## Purpose of Website
 
-The main purpose of this website is to showcase to  recruiters from the IT industry my skills, education, projects, blogs and contact details for hiring purposes.
-git st
+The main purpose of this website is to showcase to recruiters from the IT industry my skills, education, projects, blogs and contact details for hiring purposes.
+
 ## Funcionality / features
 
-The portfolio website was designed for an easy navigational experience. First thing user will notice is my logo which will be the brand of my services. Then a navigation bar right under it where user can click on the them for more information.
+The portfolio website was designed for an easy navigational experience. First thing user will notice is my logo which will be the brand of my services. Then a navigation bar right under it where user can click on them for more information.
 
-I added a picture of myself so the client can see who is dealing with. I believe I need to provide a sense of realibility and transparency from day one in order to build a long lasttime business relationship.
-I also addded a small description of my services, contact details and social networks logos that will send the user directly to my socials profile.
+I added a picture of myself so the client can see who is dealing with. I believe I need to provide a sense of reliability and transparency from day one to build a long-lasting business relationship. I also added a small description of my services, contact details and social networks logos that will send the user directly to my socials profile.
 
-- The navigation bar has a button named "resume" which will display my resume in PDF format so a potential client can download. The resume will contain more details about my work experience, education, projects and references.
+- The navigation bar has a button named "resume" which will display my resume in PDF format so a potential client can download. The resume will contain more details about my work experience, education, projects, and references.
 
 - 4 main pages, the navigation bar with 5 buttons including the one directing user to my resume and the logo always at the top of page that leads to the homepage are the main features of the website.
 
-- **Home** will display my logo, navigation bar, my picture, introduction of my services and social media logos with their links.
+- Home will display my logo, navigation bar, my picture, introduction of my services and social media logos with their links.
 
-- **AboutMe** will display my logo, a navigation bar, my professinal background, education, my hard skills divided into sections (*Scripting languages*, *Programming languages* and *Business analytical tools*) and social media logos with their links.
+- AboutMe will display my logo, a navigation bar, my professional background, education, my hard skills divided into sections (Scripting languages, Programming languages and Business analytical tools) and social media logos with their links.
 
-- **projects** will display my logo, navigation bar, one real project where I built a interactive dashboard I gave a intro of it with button below the project image named *View Project*. user could go a see and interact with it. as well as social media with their links.
+- Projects will display my logo, navigation bar, one real project where I built an interactive dashboard, I gave an intro of it with button below the project image named View Project. user could go a see and interact with it. as well as social media with their links.
 
-- **blog** will display my logo, navigation bar, 5 blog articles and social media with their links.
+- Blog will display my logo, navigation bar, 5 blog articles and social media with their links.
 
-- **resume** will direct user to my resume. A shared link of my pdf resume. which can be download.
+- Resume will direct user to my resume. A shared link of my pdf resume. which can be download.
+
 
 ## Sitemap
 
