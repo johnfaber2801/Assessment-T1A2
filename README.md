@@ -2,7 +2,7 @@
 
 ## Author: John Rodriguez
 
-[Published Portfolio Website](https://johnfaber2801.github.io/Assessment-T1A2/index.html)
+[Published Portfolio Website](https://assessment-t1-a2-ao8x.vercel.app/index.html)
 
 [Github repository](https://github.com/JohnFaber2801/Assessment-T1A2)
 
@@ -124,7 +124,7 @@ The website portfolio is targeted to recruiters of the IT industry. It will brin
 * Wireframes and Sitemap: [draw.io](https://app.diagrams.net/)
 * Logo: [LOGO.com](https://app.logo.com/)
 * Icons: [Icons8.com](https://icons8.com)
-* Deployment: [Github.com](https://github.com/)
+* Deployment: [Vercel.com](https://vercel.com/dashboard)
 * Resume : [wonsulting.com](https://www.wonsulting.com/)
 * Slide deck: Powerpoint
 * blog images: [unsplash.com](https://unsplash.com/)
