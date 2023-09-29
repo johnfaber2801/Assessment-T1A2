@@ -2,7 +2,7 @@
 
 ## Author: John Rodriguez
 
-[Published Portfolio Website](https://assessment-t1-a2-ao8x.vercel.app/index.html)
+[Published Portfolio Website](https://portafolio-five-red.vercel.app/)
 
 [Github repository](https://github.com/JohnFaber2801/Assessment-T1A2)
 
